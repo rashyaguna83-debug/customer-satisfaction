@@ -1,0 +1,101 @@
+Customer_ID,Age,Gender,Customer_Type,Product_Category,Purchase_Frequency,Service_Rating,Product_Rating,Delivery_Rating,Customer_Service_Rating,Complaint_Count,Previous_Purchases,Satisfaction
+CUST001,25,Male,New,Electronics,Monthly,5,5,4,5,0,12,Satisfied
+CUST002,34,Female,Returning,Clothing,Weekly,4,5,4,4,1,20,Satisfied
+CUST003,45,Male,Loyal,Home Appliances,Monthly,5,4,5,5,0,28,Satisfied
+CUST004,22,Female,New,Beauty,Rarely,2,3,2,3,3,2,Dissatisfied
+CUST005,39,Male,Returning,Books,Monthly,4,4,3,4,1,15,Satisfied
+CUST006,28,Female,Loyal,Electronics,Weekly,5,5,5,4,0,25,Satisfied
+CUST007,51,Male,New,Clothing,Rarely,2,2,3,2,4,3,Dissatisfied
+CUST008,31,Female,Returning,Home Appliances,Monthly,4,4,4,5,1,18,Satisfied
+CUST009,42,Male,Loyal,Electronics,Weekly,5,4,5,5,0,30,Satisfied
+CUST010,19,Female,New,Books,Rarely,2,3,2,2,3,1,Dissatisfied
+CUST011,36,Male,Returning,Beauty,Monthly,4,4,4,4,1,16,Satisfied
+CUST012,47,Female,Loyal,Clothing,Weekly,5,5,4,5,0,27,Satisfied
+CUST013,26,Male,New,Electronics,Monthly,3,3,2,3,2,7,Dissatisfied
+CUST014,55,Female,Returning,Home Appliances,Monthly,4,5,4,4,1,22,Satisfied
+CUST015,30,Male,Loyal,Books,Weekly,5,4,5,4,0,24,Satisfied
+CUST016,23,Female,New,Beauty,Rarely,2,2,3,2,4,2,Dissatisfied
+CUST017,41,Male,Returning,Electronics,Monthly,4,4,5,4,1,19,Satisfied
+CUST018,33,Female,Loyal,Clothing,Weekly,5,5,5,5,0,31,Satisfied
+CUST019,49,Male,New,Books,Rarely,3,2,2,3,3,5,Dissatisfied
+CUST020,27,Female,Returning,Home Appliances,Monthly,4,4,3,4,1,14,Satisfied
+CUST021,38,Male,Loyal,Electronics,Weekly,5,5,4,5,0,26,Satisfied
+CUST022,21,Female,New,Clothing,Rarely,2,3,2,2,4,2,Dissatisfied
+CUST023,44,Male,Returning,Beauty,Monthly,4,4,4,5,1,17,Satisfied
+CUST024,29,Female,Loyal,Books,Weekly,5,4,5,5,0,23,Satisfied
+CUST025,52,Male,New,Home Appliances,Rarely,2,2,3,2,5,4,Dissatisfied
+CUST026,35,Female,Returning,Electronics,Monthly,4,5,4,4,1,21,Satisfied
+CUST027,24,Male,New,Clothing,Monthly,3,3,3,2,2,8,Dissatisfied
+CUST028,46,Female,Loyal,Beauty,Weekly,5,5,5,4,0,29,Satisfied
+CUST029,32,Male,Returning,Books,Monthly,4,4,3,4,1,16,Satisfied
+CUST030,58,Female,New,Electronics,Rarely,2,2,2,3,4,3,Dissatisfied
+CUST031,37,Male,Loyal,Home Appliances,Weekly,5,4,5,5,0,27,Satisfied
+CUST032,20,Female,New,Beauty,Rarely,2,3,2,2,3,1,Dissatisfied
+CUST033,43,Male,Returning,Clothing,Monthly,4,4,4,4,1,18,Satisfied
+CUST034,31,Female,Loyal,Electronics,Weekly,5,5,4,5,0,25,Satisfied
+CUST035,50,Male,New,Books,Rarely,2,2,3,2,4,5,Dissatisfied
+CUST036,28,Female,Returning,Home Appliances,Monthly,4,5,4,4,1,19,Satisfied
+CUST037,40,Male,Loyal,Beauty,Weekly,5,4,5,5,0,30,Satisfied
+CUST038,23,Female,New,Clothing,Rarely,3,2,2,3,3,3,Dissatisfied
+CUST039,48,Male,Returning,Electronics,Monthly,4,4,4,5,1,20,Satisfied
+CUST040,26,Female,Loyal,Books,Weekly,5,5,5,4,0,22,Satisfied
+CUST041,54,Male,New,Home Appliances,Rarely,2,3,2,2,4,4,Dissatisfied
+CUST042,35,Female,Returning,Beauty,Monthly,4,4,3,4,1,15,Satisfied
+CUST043,29,Male,Loyal,Clothing,Weekly,5,5,4,5,0,28,Satisfied
+CUST044,45,Female,New,Electronics,Rarely,2,2,3,2,5,2,Dissatisfied
+CUST045,33,Male,Returning,Books,Monthly,4,5,4,4,1,17,Satisfied
+CUST046,22,Female,Loyal,Home Appliances,Weekly,5,4,5,5,0,24,Satisfied
+CUST047,57,Male,New,Beauty,Rarely,2,3,2,2,4,3,Dissatisfied
+CUST048,39,Female,Returning,Clothing,Monthly,4,4,4,4,1,20,Satisfied
+CUST049,27,Male,Loyal,Electronics,Weekly,5,5,5,5,0,26,Satisfied
+CUST050,42,Female,New,Books,Rarely,2,2,3,2,4,4,Dissatisfied
+CUST051,36,Male,Returning,Home Appliances,Monthly,4,4,5,4,1,18,Satisfied
+CUST052,25,Female,Loyal,Beauty,Weekly,5,5,4,5,0,23,Satisfied
+CUST053,49,Male,New,Clothing,Rarely,3,2,2,3,3,5,Dissatisfied
+CUST054,30,Female,Returning,Electronics,Monthly,4,5,4,4,1,16,Satisfied
+CUST055,44,Male,Loyal,Books,Weekly,5,4,5,5,0,29,Satisfied
+CUST056,21,Female,New,Home Appliances,Rarely,2,3,2,2,4,2,Dissatisfied
+CUST057,38,Male,Returning,Beauty,Monthly,4,4,4,5,1,19,Satisfied
+CUST058,32,Female,Loyal,Clothing,Weekly,5,5,5,4,0,25,Satisfied
+CUST059,53,Male,New,Electronics,Rarely,2,2,3,2,5,3,Dissatisfied
+CUST060,28,Female,Returning,Books,Monthly,4,4,3,4,1,14,Satisfied
+CUST061,41,Male,Loyal,Home Appliances,Weekly,5,5,4,5,0,27,Satisfied
+CUST062,24,Female,New,Beauty,Rarely,2,3,2,3,3,2,Dissatisfied
+CUST063,47,Male,Returning,Clothing,Monthly,4,4,4,4,1,21,Satisfied
+CUST064,34,Female,Loyal,Electronics,Weekly,5,5,5,5,0,30,Satisfied
+CUST065,52,Male,New,Books,Rarely,2,2,2,3,4,4,Dissatisfied
+CUST066,29,Female,Returning,Home Appliances,Monthly,4,5,4,4,1,18,Satisfied
+CUST067,43,Male,Loyal,Beauty,Weekly,5,4,5,5,0,26,Satisfied
+CUST068,20,Female,New,Clothing,Rarely,2,3,2,2,4,1,Dissatisfied
+CUST069,37,Male,Returning,Electronics,Monthly,4,4,4,5,1,20,Satisfied
+CUST070,31,Female,Loyal,Books,Weekly,5,5,4,5,0,24,Satisfied
+CUST071,56,Male,New,Home Appliances,Rarely,2,2,3,2,5,3,Dissatisfied
+CUST072,26,Female,Returning,Beauty,Monthly,4,4,3,4,1,15,Satisfied
+CUST073,40,Male,Loyal,Clothing,Weekly,5,5,5,4,0,28,Satisfied
+CUST074,23,Female,New,Electronics,Rarely,3,2,2,3,3,4,Dissatisfied
+CUST075,48,Male,Returning,Books,Monthly,4,5,4,4,1,19,Satisfied
+CUST076,35,Female,Loyal,Home Appliances,Weekly,5,4,5,5,0,25,Satisfied
+CUST077,51,Male,New,Beauty,Rarely,2,3,2,2,4,2,Dissatisfied
+CUST078,27,Female,Returning,Clothing,Monthly,4,4,4,4,1,17,Satisfied
+CUST079,39,Male,Loyal,Electronics,Weekly,5,5,4,5,0,29,Satisfied
+CUST080,22,Female,New,Books,Rarely,2,2,3,2,4,1,Dissatisfied
+CUST081,45,Male,Returning,Home Appliances,Monthly,4,4,5,4,1,21,Satisfied
+CUST082,33,Female,Loyal,Beauty,Weekly,5,5,5,5,0,27,Satisfied
+CUST083,58,Male,New,Clothing,Rarely,2,2,2,3,5,4,Dissatisfied
+CUST084,28,Female,Returning,Electronics,Monthly,4,5,4,4,1,16,Satisfied
+CUST085,42,Male,Loyal,Books,Weekly,5,4,5,5,0,30,Satisfied
+CUST086,24,Female,New,Home Appliances,Rarely,2,3,2,2,4,2,Dissatisfied
+CUST087,36,Male,Returning,Beauty,Monthly,4,4,4,5,1,18,Satisfied
+CUST088,30,Female,Loyal,Clothing,Weekly,5,5,4,5,0,23,Satisfied
+CUST089,50,Male,New,Electronics,Rarely,3,2,2,3,3,5,Dissatisfied
+CUST090,41,Female,Returning,Books,Monthly,4,4,3,4,1,20,Satisfied
+CUST091,29,Male,Loyal,Home Appliances,Weekly,5,5,5,4,0,26,Satisfied
+CUST092,53,Female,New,Beauty,Rarely,2,2,3,2,5,3,Dissatisfied
+CUST093,38,Male,Returning,Clothing,Monthly,4,5,4,4,1,19,Satisfied
+CUST094,25,Female,Loyal,Electronics,Weekly,5,4,5,5,0,24,Satisfied
+CUST095,46,Male,New,Books,Rarely,2,3,2,2,4,4,Dissatisfied
+CUST096,32,Female,Returning,Home Appliances,Monthly,4,4,4,5,1,17,Satisfied
+CUST097,44,Male,Loyal,Beauty,Weekly,5,5,5,5,0,28,Satisfied
+CUST098,21,Female,New,Clothing,Rarely,2,2,3,2,4,2,Dissatisfied
+CUST099,35,Male,Returning,Electronics,Monthly,4,4,4,4,1,20,Satisfied
+CUST100,27,Female,Loyal,Books,Weekly,5,5,4,5,0,25,Satisfied
